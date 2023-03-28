@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #F8F8FF; /* Add background color */
+  }
+  
+  h1, p {
+    text-align: center;
+    color: #2F4F4F; /* Add text color */
+  }
+  
